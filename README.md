@@ -16,7 +16,7 @@ Before running the project, ensure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/chichichin/DataTest.git
    cd <project-directory>
 2. Open the project in IntelliJ IDEA.
 3. Make sure that the pom.xml or build.gradle file (depending on your build tool) is configured correctly for Spring Boot.
