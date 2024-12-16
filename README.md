@@ -21,9 +21,9 @@ Before running the project, ensure you have the following installed:
 2. Open the project in IntelliJ IDEA.
 3. Make sure that the pom.xml or build.gradle file (depending on your build tool) is configured correctly for Spring Boot.
 4. Check that IntelliJ IDEA is using the correct JDK version for your project (Java 8 or higher).
-5. Running the Application
-From IntelliJ IDEA
+## Running the Application
+1. From IntelliJ IDEA
 Open the main class of the Spring Boot application, typically located in /src/main/java/com/example/demo/DemoApplication.java or similar.
 Right-click on the file and select Run 'Application'.
-6. Accessing the Application
+2. Accessing the Application
    http://localhost:8100/
