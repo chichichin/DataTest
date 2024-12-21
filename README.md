@@ -23,7 +23,9 @@ Before running the project, ensure you have the following installed:
 4. Check that IntelliJ IDEA is using the correct JDK version for your project (Java 8 or higher).
 ## Running the Application
 1. From IntelliJ IDEA
-Open the main class of the Spring Boot application, typically located in /src/main/java/com/example/demo/DemoApplication.java or similar.
+Open the main class of the Spring Boot application, typically located in /src/main/java/com/example/demo/DemoApplication.java.
 Right-click on the file and select Run 'Application'.
 2. Accessing the Application
    http://localhost:8100/
+
+## Note: you have to double this source project, the original one is stand for "bug-free code" running on port 8100 and the other, you can inject bug, change application port to 8200 in application.properties file
